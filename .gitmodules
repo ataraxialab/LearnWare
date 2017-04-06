@@ -1,0 +1,9 @@
+[submodule "awesome-artificial-intelligence"]
+	path = awesome-artificial-intelligence
+	url = git@github.com:owainlewis/awesome-artificial-intelligence.git
+[submodule "awesome-machine-learning"]
+	path = awesome-machine-learning
+	url = git@github.com:josephmisiti/awesome-machine-learning.git
+[submodule "awesome-deep-vision"]
+	path = awesome-deep-vision
+	url = git@github.com:kjw0612/awesome-deep-vision.git
