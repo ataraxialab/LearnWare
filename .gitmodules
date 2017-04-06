@@ -7,3 +7,9 @@
 [submodule "awesome-deep-vision"]
 	path = awesome-deep-vision
 	url = git@github.com:kjw0612/awesome-deep-vision.git
+[submodule "awesome-computer-vision"]
+	path = awesome-computer-vision
+	url = git@github.com:jbhuang0604/awesome-computer-vision.git
+[submodule "awesome-deep-learning-papers"]
+	path = awesome-deep-learning-papers
+	url = git@github.com:terryum/awesome-deep-learning-papers.git
