@@ -19,3 +19,6 @@
 [submodule "awesome-random-forest"]
 	path = awesome-random-forest
 	url = git@github.com:kjw0612/awesome-random-forest.git
+[submodule "Deep-Learning-Papers-Reading-Roadmap"]
+	path = Deep-Learning-Papers-Reading-Roadmap
+	url = git@github.com:songrotek/Deep-Learning-Papers-Reading-Roadmap.git
