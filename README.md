@@ -57,26 +57,72 @@ Here is a reading roadmap of Deep Learning papers!"
 
 
 # 1. General Object Classification/Detection
-    1. Classification 
+- Classification 
+    - [paper]
     
-    2. Detection
+    - [project/code/model]
 
+    - [dataset]
+
+- Detection
+    - [paper]
+    
+    - [project/code/model]
+
+    - [dataset]
 # 2. Face Related 
-    1. Face Detection
+-  Face Detection
+    - [paper]
+    
+    - [project/code/model]
 
-    2. Face Recognition
+    - [dataset]
+- Face Recognition
+    - [paper]
+    
+    - [project/code/model]
 
-    3. Facical Landmarks/Keypoints detection
+    - [dataset]
+-  Facical Landmarks/Keypoints detection
+    - [paper]
+    
+    - [project/code/model]
 
-    4. Age/Gender Recognition
+    - [dataset]
+- Age/Gender Recognition
+    - [paper]
+    
+    - [project/code/model]
 
-    5. Emotion Recognition
+    - [dataset]
+- Emotion Recognition
+    - [paper]
+    
+    - [project/code/model]
 
+    - [dataset]
 # 3. Content Audit
-    1. Pulp/Porn/NSFW(Not Suitable For Work) Content Recognition
+- Pulp/Porn/NSFW(Not Suitable For Work) Content Recognition
+    - [paper]
+    
+    - [project/code/model]
 
-    2. Terror Content Recognition
+    - [dataset]
+ - Terror Content Recognition
+    - [paper]
+    
+    - [project/code/model]
 
+    - [dataset]
 # 4. Scenes/Places Recognition
+- [paper]
 
+- [project/code/model]
+
+- [dataset]
 # 5. Others
+- [paper]
+    
+- [project/code/model]
+
+- [dataset]
