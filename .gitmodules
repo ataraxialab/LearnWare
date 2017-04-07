@@ -13,3 +13,9 @@
 [submodule "awesome-deep-learning-papers"]
 	path = awesome-deep-learning-papers
 	url = git@github.com:terryum/awesome-deep-learning-papers.git
+[submodule "awesome-rnn"]
+	path = awesome-rnn
+	url = git@github.com:kjw0612/awesome-rnn.git
+[submodule "awesome-random-forest"]
+	path = awesome-random-forest
+	url = git@github.com:kjw0612/awesome-random-forest.git
