@@ -52,6 +52,11 @@ Here is a reading roadmap of Deep Learning papers!"
     - Maintainer: [songrotek](https://github.com/songrotek)
     - [repo link](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
     - [local copy](./Deep-Learning-Papers-Reading-Roadmap/README.md) (may not be updated timely)
+- AdversarialNetsPapers
+    - "The classical papers and codes about generative adversarial nets"
+    - Maintainer: [zhangqianhui](https://github.com/zhangqianhui)
+    - [repo link](https://github.com/zhangqianhui/AdversarialNetsPapers)
+    - [local copy](./AdversarialNetsPapers/README.md) (may not be updated timely)
 
 ---
 
